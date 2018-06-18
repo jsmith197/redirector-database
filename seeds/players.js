@@ -7,14 +7,14 @@ exports.seed = function(knex, Promise) {
           id: 0,
           username: 'Borra',
           email: 'Jobsmith9@gmail.com',
-          password: 'P7sm0njx',
+          password: '******',
           color: 'white',
        },
        {
          id: 1,
          username: 'Vandalf',
          email: 'Jobspacemansmith@gmail.com',
-         password: 'P7sm0njx',
+         password: '*****',
          color: 'red',
        },
       ]);
